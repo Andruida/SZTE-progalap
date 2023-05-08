@@ -1,0 +1,21 @@
+1  Próbálkozás:
+
+T.eset Pont     F.ido  értékelési üzenet
+-------------------------------------------------------------------------------
+ 1.	1	0.001	HELYES
+ 2.	1	0.001	HELYES
+ 3.	1	0.000	HELYES
+ 4.	1	0.001	HELYES
+ 5.	1	0.001	HELYES
+ 6.	1	0.001	HELYES
+ 7.	1	0.001	HELYES
+ 8.	1	0.001	HELYES
+ 9.	1	0.001	HELYES
+ 10.	1	0.001	HELYES
+ 11.	1	0.000	HELYES
+ 12.	0	0.001	HIBA:Fut�si hiba: 4
+ 13.	0	0.001	HIBA:Fut�si hiba: 4
+ 14.	0	0.001	HIBA:Fut�si hiba: 4
+ 15.	0	0.001	HIBA:Fut�si hiba: 4
+-------------------------------------------------------------------------------
+Összpont: 11

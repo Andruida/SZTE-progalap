@@ -1,0 +1,12 @@
+feladat.c: In function ‘strtorles’:
+feladat.c:71:5: warning: implicit declaration of function ‘strcpy’ [-Wimplicit-function-declaration]
+     strcpy(str, out);
+     ^~~~~~
+feladat.c:71:5: warning: incompatible implicit declaration of built-in function ‘strcpy’
+feladat.c:71:5: note: include ‘<string.h>’ or provide a declaration of ‘strcpy’
+feladat.c:8:1:
++#include <string.h>
+ 
+feladat.c:71:5:
+     strcpy(str, out);
+     ^~~~~~

@@ -1,0 +1,16 @@
+1  Próbálkozás:
+
+T.eset Pont     F.ido  értékelési üzenet
+-------------------------------------------------------------------------------
+ 1.	0	0.000	Hibás eredmény
+ 2.	0	0.001	Hibás eredmény
+ 3.	0	0.001	Hibás eredmény
+ 4.	0	0.001	Hibás eredmény
+ 5.	0	0.001	Hibás eredmény
+ 6.	0	0.001	Hibás eredmény
+ 7.	0	0.001	Hibás eredmény
+ 8.	0	0.001	Hibás eredmény
+ 9.	0	0.001	Hibás eredmény
+ 10.	1	0.001	HELYES
+-------------------------------------------------------------------------------
+Összpont: 1
